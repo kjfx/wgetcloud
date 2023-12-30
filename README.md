@@ -2,7 +2,7 @@
 最新官网：https://bit.ly/wgetcloud <br>备用网址：http://www.txyun.xyz/
 
 ## 简介
-WgetCloud 机场全球自建数据中心，多数据机房集群负载，高达10000Mbps的总线接入能力。IEPL专线保证晚高峰稳定流畅运行，WgetCloud 运营团队经验丰富，技术团队主要成员在海外，可安全使用。
+WgetCloud 是一个高端机场，全球自建数据中心，多数据机房集群负载，高达10000Mbps的总线接入能力。IEPL专线保证晚高峰稳定流畅运行，WgetCloud 运营团队经验丰富，技术团队主要成员在海外，可安全使用。
 
 WgetCloud 机场使用的是 Trojan、SSR协议，支持全平台使用：Clash、V2rayN、Shadowrocket、Quantumult X、Surge、软路由等使用。
 
