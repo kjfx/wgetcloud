@@ -1,4 +1,4 @@
-# wgetcloud怎么样好用吗？优惠券、测速等，机场官网
+# wgetcloud怎么样好用吗？优惠券、测速等，机场官网支持使用USDT
 最新官网：https://bit.ly/wgetcloud <br>备用网址：http://www.txyun.xyz/
 
 ## 简介
@@ -18,7 +18,8 @@ WgetCloud 机场使用的是 Trojan、SSR协议，支持全平台使用：Clash�
 ## wgetcloud安全吗
 节点通过多层数据加密，保障您的数据安全到达目的地，且不会在服务器上残留任何信息。<br>
 WgetCloud 运营团队经验丰富，技术团队主要成员在海外，可放心使用。<br>
-付款方式支持支付宝、微信、银联、USDT 加密货币。
+付款方式支持支付宝、微信、银联、USDT 加密货币。<br>
+支持使用USDT购买套餐：钱包充值 - USDT账户 - 充值成功后再将USDT转成余额即可购买套餐。
 
 ## wgetcloud 价格
 基础专线
