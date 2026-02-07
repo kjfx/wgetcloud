@@ -44,6 +44,7 @@ WgetCloud 运营团队经验丰富，技术团队主要成员在海外，可放�
 ## wgetcloud vpn 客户端下载 怎么用？
 全平台使用，软件下载：https://github.com/Kejifaxian/welcome/
 使用教程：https://youtu.be/XHmLB4R1twg
+支持目前主流的APP：wgetcloud clash, clash verge , v2rayN , shadowrocket , 软路由 等等使用。
 
 ## wgetcloud评测测速
 所有套餐都支持4K视频播放，并且非常稳定，延迟很低。
