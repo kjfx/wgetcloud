@@ -7,7 +7,7 @@ WgetCloud 是一个高端机场，全球自建数据中心，多数据机房集�
 WgetCloud 机场使用的是 Trojan、SSR协议，支持全平台使用：Clash、V2rayN、Shadowrocket、Quantumult X、Surge、软路由等使用。
 
 ## wgetcloud 优惠券
-新用户注册成功，自动赠送8.5折优惠券，可前往【会员商店】查看！<br>
+新用户注册成功，自动赠送8.5折优惠券，可前往【个人套餐】查看！<br>
 首次购买套餐新用户，都可前往【福利中心】领取一张7天的奈飞体验卡！<br>
 【福利中心】还有充值抽奖活动！抽优惠券、流量包等！<br>
 电报群，分享最新福利：https://t.me/WgetCloud
