@@ -1,5 +1,5 @@
 # wgetcloud怎么样好用吗？优惠券、测速等，机场官网支持使用USDT
-最新官网：https://bit.ly/wgetcloud <br>备用网址：http://www.txyun.xyz/
+最新官网：[wgetcloud.org](https://kjfx.github.io/w/) <br>备用网址：[wgetcloud.ltd](https://bit.ly/wgetcloud)
 
 ## 简介
 WgetCloud 是一个高端机场，全球自建数据中心，多数据机房集群负载，高达10000Mbps的总线接入能力。IEPL专线保证晚高峰稳定流畅运行，WgetCloud 运营团队经验丰富，技术团队主要成员在海外，可安全使用。
