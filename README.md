@@ -1,4 +1,4 @@
-# wgetcloud官网网址，wgetcloud怎么样？wgetcloud机场好用吗，费用是多少？
+# wgetcloud官网网址，wgetcloud怎么样？wgetcloud机场好用吗，wgetcloud 全球加速费用是多少？
 最新官网：[wgetcloud.org](https://kjfx.github.io/w/) <br>备用网址：[wgetcloud.ltd](https://bit.ly/wgetcloud)
 
 ## WgetCloud 简介
