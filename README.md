@@ -64,3 +64,9 @@ WgetCloud （原 GaCloud）2022年初成立，至今已稳定运行了4年多时
 
 ### 3、不同套餐有什么区别，推荐使用哪个？
 流量不同、速度不同、节点数量不同，看4K视频使用基础专线即可，对IP数量要求较高建议使用精品专线。
+
+## wgetcloud 官网界面
+<img src="https://raw.githubusercontent.com/kjfx/wgetcloud/refs/heads/main/images/wgetcloud_01.jpg" alt="wgetcloud 官网"/>
+<img src="https://raw.githubusercontent.com/kjfx/wgetcloud/refs/heads/main/images/wgetcloud_02.jpg" alt="wgetcloud 官网"/>
+<img src="https://raw.githubusercontent.com/kjfx/wgetcloud/refs/heads/main/images/wgetcloud_03.jpg" alt="wgetcloud 官网"/>
+<img src="https://raw.githubusercontent.com/kjfx/wgetcloud/refs/heads/main/images/wgetcloud_04.jpg" alt="wgetcloud 官网"/>
