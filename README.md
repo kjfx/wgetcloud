@@ -72,5 +72,5 @@ WgetCloud （原 GaCloud）2022年初成立，至今已稳定运行了4年多时
 <img src="https://raw.githubusercontent.com/kjfx/wgetcloud/refs/heads/main/images/wgetcloud_04.jpg" alt="wgetcloud 官网"/>
 
 <p align="center">
-[WgetCloud 官网直达](https://kjfx.github.io/w/)
+<a href="https://kjfx.github.io/w/">WgetCloud 官网直达</a>
 </p>
